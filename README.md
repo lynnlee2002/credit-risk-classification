@@ -23,4 +23,4 @@
   + With the resampled data:
     --> For the 0 (healthy loan) label: The precision, recall, and f1-score are all 1.00, which means that the model accurately identifies all instances of healthy loans. This indicates that the model performs exceptionally well in predicting healthy loans.
     --> For the 1 (high-risk loan) label: The precision indicates that when the model predicts a loan as high-risk, it is correct approximately 87% of the time.The recall for class 1 is 1.00, indicating that the model correctly captures all instances of high-risk loans. The f1-score for class 1 is 0.93 suggesting that the model performs well in predicting high-risk loans.
-- A summary: I would recommend the model performed on the resampled data as the it results in a higher precision and f1-score for the "1" label (high-risk loan), indicating more accurate performance in predicting/capturing high-risk loans.
+- A summary: I would recommend the model performed on the resampled data as the it results in a higher precision and f1-score for the "1" label (high-risk loan), indicating a more accurate performance on predicting/capturing high-risk loans.
